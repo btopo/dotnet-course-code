@@ -120,5 +120,20 @@ namespace DotnetAPI.Controllers
           throw new Exception("Failed to edit new post!");   
 
       }
+
+      [HttpDelete("Post/{postId}")]
+      public IActionResult DeletePost(int postId)
+      {
+          string sql = @"DELETE FROM TutorialAppSchema.Posts 
+            WHERE PostId =" + postId.ToString();
+
+
+              if (_dapper.ExecuteSql(sql))
+          {
+              return Ok();
+          } 
+
+          throw new Exception("Failed to Delete post!");
+      }
   }
 }
