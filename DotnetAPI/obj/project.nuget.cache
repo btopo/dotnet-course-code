@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+adA6nF2rK2m8gJnjuiPQ5p+TvsLB2kH6AkESOnRgUXoWeW7cej1erAytpn0kmVR6Uou6uzbsoFdxJPhWcPjfQ==",
+  "dgSpecHash": "rffaqA/9lX/02Pxq9hn/5VaaX5APzAgpA7FkGM1dB73LV4cSjgYF3AIP/cO995dUvFBLEkVzX/YLG8MUdhLzRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brett\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
+  "projectFilePath": "C:\\Users\\brett\\dotnet-course-code\\dotnetAPI\\DotnetAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brett\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\brett\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
