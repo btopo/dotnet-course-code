@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brett\\dotnet-course-code\\dotnetAPI\\DotnetAPI.csproj": {}
+    "C:\\Users\\brett\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brett\\dotnet-course-code\\dotnetAPI\\DotnetAPI.csproj": {
+    "C:\\Users\\brett\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brett\\dotnet-course-code\\dotnetAPI\\DotnetAPI.csproj",
+        "projectUniqueName": "C:\\Users\\brett\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
         "projectName": "DotnetAPI",
-        "projectPath": "C:\\Users\\brett\\dotnet-course-code\\dotnetAPI\\DotnetAPI.csproj",
+        "projectPath": "C:\\Users\\brett\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
         "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brett\\dotnet-course-code\\dotnetAPI\\obj\\",
+        "outputPath": "C:\\Users\\brett\\dotnet-course-code\\DotnetAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brett\\AppData\\Roaming\\NuGet\\NuGet.Config",
