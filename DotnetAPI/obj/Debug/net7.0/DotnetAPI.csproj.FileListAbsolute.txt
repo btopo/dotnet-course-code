@@ -13,10 +13,6 @@ C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.AspNetCor
 C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
 C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\brett\dotnet-course-code\DotnetAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
