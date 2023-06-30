@@ -22,7 +22,7 @@ public class UsersCompleteController : ControllerBase
     }
 
    [HttpGet("GetUsers/{userId}/{isActive}")]
-    // public IEnumerable<User> GetUsers()
+    
     public IEnumerable<UserComplete> GetUsers(int userId, bool isActive)
     {
         string sql = @"EXEC TutorialAppSchema.spUsers_Get";
